@@ -6,7 +6,7 @@
             "command": "C:\\MinGW64\\bin\\g++.exe",
             "args": [
                 "-std=c++17",
-                "-I${workspaceFolder}/../include",
+                "-I${workspaceFolder}/include",
                 "-g",
                 "${workspaceFolder}/*.cpp",
                 "-o",
